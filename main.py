@@ -15,7 +15,7 @@ screen_width = 1000
 screen_height = 1000
 
 screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption('Platformer')
+pygame.display.set_caption('utek')
 
 
 #define font
@@ -91,7 +91,7 @@ def reset_level(level):
 		pickle_in = open(f'level{level}_data', 'rb')
 		world_data = pickle.load(pickle_in)
 	world = World(world_data)
-	#create dummy coin for showing the score
+	#create 50 coin for showing the score
 	score_coin = Coin(tile_size // 2, tile_size // 2)
 	coin_group.add(score_coin)
 	return world
