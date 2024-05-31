@@ -37,11 +37,3 @@
 
 
 
-
-### Instructions for Using the README
-
-1. **Replace placeholders** such as `your-username` and `your-repository` with your actual GitHub username and repository name.
-2. **Replace the email** in the Contact section with your actual email address.
-3. **Make sure all paths** and instructions align with your project's structure and contents.
-
-This single-file `README.md` provides an overview of the game, installation instructions, gameplay details, code structure, and additional information in a clear and structured format.
