@@ -35,5 +35,19 @@
 - **img/:** Directory containing all game images.
 - **level_data:** Pickle files containing the level data.
 
+## This is how I proceeded to create this game.
+  1. Creating the World
+  2. Creating the Player
+  3. Player Walking Animation
+  4. Adding Collision, Enemies, Lava And Game Over Condition
+  5. Adding Buttons and Reset Game
+  6. Adding a Start Menu
+  7. Creating multiple game levels
+  8. Add a Score Counter and Display Text
+  9. Adding Music and Sound Effects
+  10. Adding Moving Platforms and Collision With Them
+
+  
+
 
 
